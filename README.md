@@ -10,3 +10,6 @@
 ### Test cases:
 1. [crm.geekbrains.space](https://docs.google.com/spreadsheets/d/1vMNtJs9vVzSLJlQdLkYSc2GPRd8O5oSjmjCZiT4J-eY/edit#gid=2069118857)
 2. [authorization form](https://docs.google.com/spreadsheets/d/129MV-XQLWyiUH-29i5WtH3mYSLB4p9MG-dqsU0V_DHg/edit#gid=1263382402)
+
+### Files:
+1. Web App Testing Strategy.xmind - contains info about the testing strategy of a web app "The educational platform GeekBrains"
